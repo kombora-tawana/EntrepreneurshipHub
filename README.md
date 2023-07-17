@@ -1,6 +1,7 @@
 # Cheat-Code
 
-### Entrepreneurship Hub:
+## Entrepreneurship Hub
+
 South Africa has a low number of entrepreneurs. BusinessTech is quoted as saying:
 
 > South Africa has an ‘alarmingly low level of entrepreneurial activity’ in spite of high unemployment, according to a global report.
